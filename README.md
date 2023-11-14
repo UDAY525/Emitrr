@@ -5,4 +5,6 @@
 
 # STEPS TO RUN LOCALLY
 
-- Run `npm install` - Run `npm run start``
+- Change directory to source `cd source`
+- Run `npm install` 
+- Run `npm run start`
